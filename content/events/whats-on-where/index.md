@@ -1,8 +1,8 @@
 ---
 title: What's on, where?
 eventSummary: ""
-eventStart: 2025-05-26 13:00
-eventEnd: 2025-05-26 16:00
+eventStart: 2025-05-26 13:00:00
+eventEnd: 2025-05-26 16:00:00
 venues:
   - across-oakley
 organisers:
